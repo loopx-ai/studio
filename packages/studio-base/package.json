@@ -213,7 +213,7 @@
     "use-pan-and-zoom": "0.6.5",
     "uuid": "8.3.2",
     "wasm-lz4": "2.0.0",
-    "webpack": "5.74.0",
+    "webpack": "5.76.0",
     "xacro-parser": "0.3.8",
     "zustand": "4.1.1"
   }
